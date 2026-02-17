@@ -103,6 +103,6 @@ Seeking cybersecurity or cloud-support roles that leverage:
 ---
 
 ## Links
-- GitHub Pages Projects: https://jordynscappini.github.io/
+- GitHub Pages Projects: (https://github.com/scappinij/jordynscappini.git)
 - LinkedIn: (www.linkedin.com/in/jordyn-scappini)
 - Resume: (add later)
